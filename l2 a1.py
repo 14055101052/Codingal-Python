@@ -1,0 +1,7 @@
+print("Welcome to Codingal Chatbot✨")
+name = input("What is your name ?")
+print(f"Nice to meet you {name}")
+help = input("How can I help you?")
+print(f"Just confirming your request - {help}")
+yORn = input("Would you ike to continue? Yes/No")
+print("Your request has been raised")
